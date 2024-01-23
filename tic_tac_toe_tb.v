@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module tik_tac_toe_tb( );
+module tic_tac_toe_tb( );
     reg clk_tb, reset_tb, p1_tb, p2_tb;
     reg [3:0] p1_pos_tb, p2_pos_tb;
     
